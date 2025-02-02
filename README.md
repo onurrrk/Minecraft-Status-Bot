@@ -2,6 +2,6 @@
 ◽Bu bot başkası tarafından alınmıştır.
 
 # İletişim
-**E-Posta: mail@craftwonder.com.tr**
+**E-Posta: **
 
 **Discord: onur1692**
